@@ -29,7 +29,7 @@ struct BCTranslatorAPIManager {
         var request  = URLRequest(url: url!, cachePolicy: .useProtocolCachePolicy, timeoutInterval: 10)
         
         let header = [
-            "Ocp-Apim-Subscription-Key": "f09521f9b3884e3c9f62971554c9b498",
+            "Ocp-Apim-Subscription-Key": "API KEYS",
             "Content-type": "application/json","Ocp-Apim-Subscription-Region":"southeastasia"
         ]
         
