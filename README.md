@@ -1,3 +1,5 @@
+<img src="images/iTunesArtwork@3x.png" width="100" alt="App Icon"/>
+
 # 📖 ReaderX
 
 ReaderX is a revolutionary dictionary and translation app built with Swift for iOS.  
@@ -37,5 +39,16 @@ Think of ReaderX as your **personal reading companion** that’s always ready to
 ### Requirements
 - iOS 15.0+  
 - Xcode 14+  
-- Swift 5.7+  
+- Swift 5.7+
+- 
+## Screenshots
+
+<p float="left">
+  <img src="images/0x0sss1.png" width="160" />
+  <img src="images/0x0sss3.png" width="160" />
+  <img src="images/0x0sss4.png" width="160" />
+  <img src="images/0x0sss5.png" width="160" />
+  <img src="images/0x0sss6.png" width="160" />
+  <img src="images/0x0sss7.png" width="160" />
+</p>
 
